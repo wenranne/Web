@@ -1,0 +1,9 @@
+#myCircle {
+    fill: blue;
+    transition: fill 0.3s ease;
+}
+    
+#myCircle:hover {
+    fill: red;
+}
+
